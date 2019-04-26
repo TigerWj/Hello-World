@@ -1,2 +1,5 @@
 # Hello-World
-My first Repository
+  So, follow to the github Guides, I write these below...  
+  Today, I learn to create my first own repository, in order to sharing my study and pushing myself better and better.  
+  I promise...  
+  ----------------------------------------------------------------------------------------------------------2019.04.26
